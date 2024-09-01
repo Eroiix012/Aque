@@ -1,4 +1,4 @@
-{}'.format(post_id)).encode# Code by Betrayal Bishesh
+
 
 # ────────────────[Imports]─────────────────
 import requests
