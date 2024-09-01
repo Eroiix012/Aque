@@ -1,5 +1,3 @@
-
-
 # ────────────────[Imports]─────────────────
 import requests
 import re
@@ -137,10 +135,7 @@ def approval():
         linex()
 
         urls = [
-            "https://github.com/Bisheshz/06f27/blob/main/5.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/6.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/7.txt",
-            "https://github.com/Bisheshz/06f27/blob/main/8.txt"
+            "https://github.com/Eroiix012/AsmitX/blob/main/Approve.txt"
         ]
 
         key_found = False
